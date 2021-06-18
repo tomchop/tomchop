@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![tomchops's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomchop)](https://github.com/tomchop)
+
+[![Years Badge](https://badges.pufler.dev/years/tomchop)](https://badges.pufler.dev)[![Repos Badge](https://badges.pufler.dev/repos/tomchop)](https://badges.pufler.dev)
