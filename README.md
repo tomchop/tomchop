@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Tom (he/him), a Digital Forensics and Incident Response (a.k.a. DFIR) engineer based in Zurich, Switzerland. Most of my focus is around tools that aid in incident response, forensics, malware analysis, automation, and API interaction.
+I'm Tom (he/him), a Digital Forensics and Incident Response (a.k.a. DFIR) engineer based in Zurich, Switzerland. Most of my focus is around tools that aid in incident response, forensics, threat intelligence, malware analysis, automation, and API interaction.
 
 [![tomchops's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomchop&show_icons=true)](https://github.com/tomchop)
 
