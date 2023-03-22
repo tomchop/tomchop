@@ -31,7 +31,7 @@ I'm Tom (he/him), a Digital Forensics and Incident Response (a.k.a. DFIR) engine
 * [Yeti platform](https://github.com/yeti-platform) - a lightweight Threat Intelligence platform. Ramping up the time I'm spending on this.
 * [Timesketch](https://github.com/google/timesketch/) - a forensics timeline analysis platform.
 
-## 👻 Projects I've worked on in the past 
+## 📦 Projects I've worked on in the past 
 
 * [volatility-autoruns](https://github.com/tomchop/volatility-autoruns) - A plugin for the excellent memory analysis framework Volatility that enumerates auto-start extensibility points (i.e. "persistence") on a system.
 * [FIR](https://github.com/certsocietegenerale/FIR) - Fast incident response - a lightweight incident response platform. Like a ticketing system, but for security incidents.
