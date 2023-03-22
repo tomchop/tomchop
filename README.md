@@ -36,4 +36,5 @@ I'm Tom (he/him), a Digital Forensics and Incident Response (a.k.a. DFIR) engine
 * [volatility-autoruns](https://github.com/tomchop/volatility-autoruns) - A plugin for the excellent memory analysis framework Volatility that enumerates auto-start extensibility points (i.e. "persistence") on a system.
 * [FIR](https://github.com/certsocietegenerale/FIR) - Fast incident response - a lightweight incident response platform. Like a ticketing system, but for security incidents.
 * [unxor](https://github.com/tomchop/unxor) - A fun experiment attacking weaknesses in XOR-based ciphers. Allows you to recover plaintext from any fixed-key XOR ciphertext, as long as you know a chunk of plaintext that is 2x as long as the key! (e.g. `This program cannot be run in DOS mode`)
+* [malcom](https://github.com/tomchop/malcom) - Malcom - Malware Communications Analyzer - network traffic analysis and threat intelligence in the browser.
 
