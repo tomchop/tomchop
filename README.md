@@ -21,9 +21,9 @@ I'm Tom (he/him), a Digital Forensics and Incident Response (a.k.a. DFIR) engine
 
 ## 📯 Where to find me 
 
-* Keybase - https://keybase.io/tomchop
+* Bluesky - [@tomchop.me](https://bsky.app/profile/tomchop.me)
 * Mastodon - [@tomchop@infosec.exchange](https://infosec.exchange/@tomchop)
-* Twitter - [@tomchop_](https://twitter.com/tomchop_) (don't check this much anymore)
+* Keybase - https://keybase.io/tomchop
 * [tomchop.me](https://tomchop.me) - Personal website, let's see if I ever start writing something there...
 
 ## ⚡️ Core projects
