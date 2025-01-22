@@ -35,8 +35,8 @@ I'm Tom (he/him), a Digital Forensics and Incident Response (a.k.a. DFIR) engine
 
 ## 🪴 Sporadic contributions
 
-* [OpenRelik Volatility worker](https://github.com/tomchop/openrelik-worker-volatility) - A volatility3 worker for OpenRelik (openrelik.org)
-* [OpenRelik Yara worker](https://github.com/tomchop/openrelik-worker-yara-scan) - A Yara scanner worker for OpenRelik (openrelik.org). Can feed off third party systems like Yeti.
+* [OpenRelik Volatility worker](https://github.com/tomchop/openrelik-worker-volatility) - A volatility3 worker for [OpenRelik](https://openrelik.org)
+* [OpenRelik Yara worker](https://github.com/tomchop/openrelik-worker-yara-scan) - A Yara scanner worker for [OpenRelik](https://openrelik.org). Can feed off third party systems like Yeti.
 
 ## 📦 Projects I've worked on in the past 
 
