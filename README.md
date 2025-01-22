@@ -28,12 +28,19 @@ I'm Tom (he/him), a Digital Forensics and Incident Response (a.k.a. DFIR) engine
 
 ## ⚡️ Core projects
 
-* [dfTimewolf](https://github.com/log2timeline/dftimewolf) - a digital forensics pipeline orchestrator. Think CyberChef for APIs! Actively maintained.
 * [Yeti platform](https://github.com/yeti-platform) - a lightweight Threat Intelligence platform. Ramping up the time I'm spending on this.
+* [DFIQ](https://dfiq.org) - a repository of Digital Forensics Investigative Questions, bundled in a nice YAML format for consumption by automated tools.
 * [Timesketch](https://github.com/google/timesketch/) - a forensics timeline analysis platform.
+* [dfTimewolf](https://github.com/log2timeline/dftimewolf) - a digital forensics pipeline orchestrator. Think CyberChef for APIs! Actively maintained.
+
+## 🪴 Sporadic contributions
+
+* [OpenRelik Volatility worker](https://github.com/tomchop/openrelik-worker-volatility) - A volatility3 worker for OpenRelik (openrelik.org)
+* [OpenRelik Yara worker](https://github.com/tomchop/openrelik-worker-yara-scan) - A Yara scanner worker for OpenRelik (openrelik.org). Can feed off third party systems like Yeti.
 
 ## 📦 Projects I've worked on in the past 
 
+* [cloud-forensics-utils](https://github.com/google/cloud-forensics-utils) - Python library to interact with various cloud services and facilitate forensics-related actions (e.g. disk copying).
 * [volatility-autoruns](https://github.com/tomchop/volatility-autoruns) - A plugin for the excellent memory analysis framework Volatility that enumerates auto-start extensibility points (i.e. "persistence") on a system.
 * [FIR](https://github.com/certsocietegenerale/FIR) - Fast incident response - a lightweight incident response platform. Like a ticketing system, but for security incidents.
 * [unxor](https://github.com/tomchop/unxor) - A fun experiment attacking weaknesses in XOR-based ciphers. Allows you to recover plaintext from any fixed-key XOR ciphertext, as long as you know a chunk of plaintext that is 2x as long as the key! (e.g. `This program cannot be run in DOS mode`)
